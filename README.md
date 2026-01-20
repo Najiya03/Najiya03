@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Najiya03
+- 👋 Hi, I’m Najiya (@Najiya03)
 - 🎓 M.Tech Artificial Intelligence student with a Computer Science background
 - 👀 Interested in Machine Learning, Deep Learning, and AI research
 - 🌱 Exploring neural networks, sequence models, and applied ML systems

@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Najiya03
-- 👀 I’m interested in web development
-- 🌱 I’m currently a computer science engineering student
+- 🎓 M.Tech Artificial Intelligence student with a Computer Science background
+- 👀 Interested in Machine Learning, Deep Learning, and AI research
+- 🌱 Exploring neural networks, sequence models, and applied ML systems
   
 
 <!---
